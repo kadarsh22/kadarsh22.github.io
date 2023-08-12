@@ -19,10 +19,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th year PhD candidate in the Cambridge-Tübingen programme, co-supervised by Bernhard Schölkopf at the Max Planck Institute for Intelligent Systems in Tübingen and Adrian Weller at the University of Cambridge, where I spent the first year of my PhD.
+# Welcome to My World!
 
-My research interests lie at the intersection of causal inference and machine learning, see Research Interests and the below publications for more details.
+👋 Hey there! I'm a Pre Doctoral Research Fellow at TCS Research, fueled by curiosity and a passion for Generative Modelling and Representation Learning.
 
-Previously, I studied Mathematics (B.Sc. + M.Sci.) at Imperial College London (UK) and Artificial Intelligence (M.Sc.) at UPC Barcelona (Spain) and at TU Delft (Netherlands).
+🔍 Searching for the perfect PhD opportunity to dive even deeper into the fascinating realm of Generative Modelling and Causal Representation Learning.
 
-I am originally from the beautiful Hamburg in northern Germany.
+💼 With a robust 3-year background as an Industrial Data Scientist, I've honed my skills in transforming raw data into actionable insights.
+
+📚 My journey is marked by publications that have contributed to the wider knowledge landscape.
+
+Originally hailing from the enchanting city of Hamburg in northern Germany, I bring a blend of precision and creativity to everything I do.
+
+Connect with me and let's explore the future together!
