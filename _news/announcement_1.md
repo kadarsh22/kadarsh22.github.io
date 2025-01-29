@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎊 Exciting News! Our paper **["SEBRA: Debiasing Through Self-Guided Bias Ranking"](https://kadarsh22.github.io/sebra_iclr25/)** has been accepted at **ICLR 2025**! 
+🎊 Our paper **["SEBRA: Debiasing Through Self-Guided Bias Ranking"](https://kadarsh22.github.io/sebra_iclr25/)** has been accepted at **ICLR 2025**! 
 

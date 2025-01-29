@@ -19,7 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# About Me
 
 👋 Hi, I'm Adarsh Kappiyath, a PhD student at the University of Surrey, working under the supervision of **[Dr. Lu Yin](https://luuyin.com/)** and **[Dr. Xiatian Zhu](https://surrey-uplab.github.io/)**.  
 
