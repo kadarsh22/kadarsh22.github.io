@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>26 BBO2, Alan Turing Building</p>
+    <p>University of Surrey</p>
+    <p>United Kindgom, GU2 7XH</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,16 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# Welcome to My World!
+# About Me
 
-👋 Hey there! I'm a Pre Doctoral Research Fellow at TCS Research, fueled by curiosity and a passion for Generative Modelling and Representation Learning.
+👋 Hi, I'm [Your Name], a PhD student at the University of Surrey, working under the supervision of **[Dr. Lu Yin](https://luuyin.com/)** and **[Dr. Xiatian Zhu](https://surrey-uplab.github.io/)**.  
 
-🔍 Searching for the perfect PhD opportunity to dive even deeper into the fascinating realm of Generative Modelling and Causal Representation Learning.
+🔬 My research focuses on **Robustness and Out-of-Distribution (OOD) Generalization**, aiming to develop models that perform reliably in real-world scenarios beyond their training data.  
 
-💼 With a robust 3-year background as an Industrial Data Scientist, I've honed my skills in transforming raw data into actionable insights.
+🚀 I'm actively seeking **internships and research collaborations**! If you're interested in working together, feel free to reach out. Let's build something impactful!  
 
-📚 My journey is marked by publications that have contributed to the wider knowledge landscape.
 
-Originally hailing from the enchanting city of Hamburg in northern Germany, I bring a blend of precision and creativity to everything I do.
-
-Connect with me and let's explore the future together!
