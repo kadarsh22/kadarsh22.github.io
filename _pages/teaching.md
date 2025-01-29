@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+permalink: /research/
+title: research
+description: A brief overview of my research interests and future plans
+nav: true
 nav_order: 5
 ---
 
