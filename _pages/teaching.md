@@ -2,12 +2,10 @@
 layout: page
 permalink: /research/
 title: Research
-description: A brief overview of my research interests and future plans
+description: 
 nav: true
 nav_order: 5
 ---
-
-# Research Overview
 
 ## Neural Network Robustness & Out-of-Distribution (OOD) Generalization
 
