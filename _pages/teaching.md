@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research Overview
+title: research
 description: A brief overview of my research interests and future plans
 nav: true
 nav_order: 5
