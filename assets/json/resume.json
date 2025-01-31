@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Adarsh Kappiyath",
-    "label": "Pre Doctoral Research Fellow",
+    "label": "PhD Student",
     "image": "",
     "email": "kadarsh22@gmail.com",
     "phone": "",
@@ -9,7 +9,7 @@
     "summary": "A",
     "location": {
       "address": "Athira Nivas, Pazhichiyil",
-      "postalCode": "670501",
+      "postalCode": "670504",
       "city": "Pilathara",
       "countryCode": "IN",
       "region": "Kannur"
@@ -23,6 +23,14 @@
     ]
   },
   "work": [
+      {
+      "name": "Tata Consultancy Services",
+      "position": "PreDoctoral Research Fellow",
+      "startDate": "2022-05-01",
+      "endDate": "2024-01-31",
+      "summary": "Research on Continual Learning methods in Generative Models",
+      "highlights": ["Continual Learning"]
+    },
     {
       "name": "Flytxt Mobile Solutions",
       "position": "Data Scientist",
@@ -37,38 +45,30 @@
   ],
   "volunteer": [],
   "education": [
+      {
+      "institution": "University of Surrey",
+      "url": "https://www.surrey.ac.uk/",
+      "area": "Machine Learning",
+      "studyType": "PhD",
+      "startDate": "2024-01-08",
+      "endDate": "2027-06-01"
+    },
     {
       "institution": "Indian Institute of Space Science and Technology",
       "url": "https://www.iist.ac.in/",
       "area": "Machine Learning And Computing",
       "studyType": "M.Tech",
       "startDate": "2017-08-01",
-      "endDate": "2019-06-01",
-      "score": "",
-      "courses": [
-        "Pattern Recognition And Machine Learning",
-        "Data Mining",
-        "Advance Learning Models",
-        "Linear Algebra",
-        "Probability & Statistics"
-      ]
+      "endDate": "2019-06-01"
     }
+
   ],
   "certificates": [],
   "publications": [],
   "skills": [{
 
   }],
-  "languages": [
-    {
-      "language": "Malayalam",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+
   "interests": [],
   "references": [],
   "projects": []
