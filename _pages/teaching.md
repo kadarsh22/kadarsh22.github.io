@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research Overview
-description: 
+description: A brief overview of my research interests and future plans
 nav: true
 nav_order: 5
 ---
@@ -25,4 +25,3 @@ My recent work Sebra centers on developing models that are robust to one of the 
 
 Building upon this foundation, my subsequent research aims to create models capable of compositional generalization across various tasks by discovering modular networks in an unsupervised manner. The objective is to minimize data and computational requirements while preserving performance levels comparable to current foundation models, thereby enhancing efficiency. Future research will extend these approaches to vision models capable of robust compositional generalization, further advancing model adaptability in complex environments.
 
----
