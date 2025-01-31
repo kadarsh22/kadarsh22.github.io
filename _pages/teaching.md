@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Research Overview
 description: 
 nav: true
 nav_order: 5
@@ -15,18 +15,14 @@ To address this issue, large-scale models are typically trained on vast amounts 
 
 ## Research Focus
 
-This study focuses on the design and evaluation of machine learning algorithms that can handle distribution shifts as well as compositional generalise to unseen scenarios. The goal is to improve the adaptability and reliability of models in diverse and dynamic environments.
+My research focuses on the design and evaluation of machine learning algorithms that can handle distribution shifts as well as compositional generalise to unseen scenarios. The goal is to improve the adaptability and reliability of models in diverse and dynamic environments.
 
-### Initial Work: Resilience to Spurious Correlations
+### Prior Work: Resilience to Spurious Correlations
 
-My initial work centers on developing models that are robust to one of the most commonly encountered distribution shifts: spurious correlations. I propose a novel, data-centric method that builds models resilient to such shifts while ensuring scalability to real-world, in-the-wild scenarios.
+My recent work Sebra centers on developing models that are robust to one of the most commonly encountered distribution shifts: spurious correlations. I propose a novel, data-centric method that builds models resilient to such shifts while ensuring scalability to real-world, in-the-wild scenarios.
 
-### Future Research: Compositional Generalization
+### Current & Future Research: Compositional Generalization
 
-Building upon this foundation, my subsequent research aims to create models capable of compositional generalization across various tasks by discovering modular networks in an unsupervised manner. The objective is to minimize data and computational requirements while preserving performance levels comparable to current foundation models, thereby enhancing efficiency.
-
-### Vision Models for Robust Generalization
-
-Future research will extend these approaches to vision models capable of robust compositional generalization, further advancing model adaptability in complex environments.
+Building upon this foundation, my subsequent research aims to create models capable of compositional generalization across various tasks by discovering modular networks in an unsupervised manner. The objective is to minimize data and computational requirements while preserving performance levels comparable to current foundation models, thereby enhancing efficiency. Future research will extend these approaches to vision models capable of robust compositional generalization, further advancing model adaptability in complex environments.
 
 ---
