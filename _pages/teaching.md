@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /research/
+title: Research
+description: 
+nav: true
+nav_order: 5
+---
+
 # Robustness at Scale for Neural Networks
 
 Machine learning algorithms are designed under the assumption that data points are independently and identically distributed (IID). However, in real-world applications, models often encounter samples that deviate from the training distribution. This deviation can lead to unreliable predictions with potentially severe consequences, especially in high-stakes domains like autonomous driving and healthcare.
