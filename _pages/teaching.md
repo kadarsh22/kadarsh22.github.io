@@ -21,7 +21,7 @@ My research focuses on the design and evaluation of machine learning algorithms 
 
 My recent work Sebra centers on developing models that are robust to one of the most commonly encountered distribution shifts: spurious correlations. I propose a novel, data-centric method that builds models resilient to such shifts while ensuring scalability to real-world, in-the-wild scenarios.
 
-### Current & Future Research: Compositional Generalization
+### Current & Future Research: Improving Representations of JEPA
 
-Building upon this foundation, my subsequent research aims to create models capable of compositional generalization across various tasks by discovering modular networks in an unsupervised manner. The objective is to minimize data and computational requirements while preserving performance levels comparable to current foundation models, thereby enhancing efficiency. Future research will extend these approaches to vision models capable of robust compositional generalization, further advancing model adaptability in complex environments.
+Joint Embedding Predictive Architecture (JEPA) is a promising paradigm for self-supervised representation learning. In my current research, I'm working improving the representations captured by these models.
 
