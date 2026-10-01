@@ -1,75 +1,249 @@
 {
   "basics": {
     "name": "Adarsh Kappiyath",
-    "label": "Pre Doctoral Research Fellow",
-    "image": "",
+    "label": "PhD Researcher, University of Surrey",
     "email": "kadarsh22@gmail.com",
-    "phone": "",
     "url": "https://kadarsh22.github.io/",
-    "summary": "A",
-    "location": {
-      "address": "Athira Nivas, Pazhichiyil",
-      "postalCode": "670501",
-      "city": "Pilathara",
-      "countryCode": "IN",
-      "region": "Kannur"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "kadarsh22",
-        "url": "https://twitter.com/kadarsh22"
-      }
-    ]
+    "summary": "PhD researcher studying Joint Embedding Predictive Architectures (JEPA), self-supervised learning, and world modeling, with a focus on informative, stable representations that generalize under unseen conditions. My work also draws on debiasing and continual learning."
   },
   "work": [
     {
-      "name": "Flytxt Mobile Solutions",
-      "position": "Data Scientist",
-      "url": "https://flytxt.com",
-      "startDate": "2019-06-10",
-      "endDate": "2022-05-01",
-      "summary": "Worked on research & Development of Robo-X (Flagship AI product of Flytxt)",
+      "name": "University of Surrey",
+      "position": "PhD Researcher",
+      "startDate": "2024-02",
+      "summary": "Surrey, UK",
       "highlights": [
-        "Explainable AI"
+        "Investigating the robustness of pretrained foundation models, with a focus on Joint Embedding Predictive Architectures (JEPA), representation reliability, and generalization under unseen conditions.",
+        "Developing representation-learning and adaptation methods that improve stability and resilience while preserving semantic information and causal structure."
       ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Indian Institute of Space Science and Technology",
-      "url": "https://www.iist.ac.in/",
-      "area": "Machine Learning And Computing",
-      "studyType": "M.Tech",
-      "startDate": "2017-08-01",
-      "endDate": "2019-06-01",
-      "score": "",
-      "courses": [
-        "Pattern Recognition And Machine Learning",
-        "Data Mining",
-        "Advance Learning Models",
-        "Linear Algebra",
-        "Probability & Statistics"
-      ]
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [{
-
-  }],
-  "languages": [
-    {
-      "language": "Malayalam",
-      "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "name": "TCS Research",
+      "position": "Pre-Doctoral Fellow",
+      "startDate": "2022-05",
+      "endDate": "2024-01",
+      "summary": "New Delhi, India",
+      "highlights": [
+        "Investigated continual learning in StyleGAN through adaptable latent subspaces, enabling novel datasets to be learned from a pretrained generative model."
+      ]
+    },
+    {
+      "name": "Flytxt Mobile Solutions",
+      "position": "Deputy Manager (Data Scientist), R&D",
+      "startDate": "2019-06",
+      "endDate": "2022-04",
+      "summary": "Kerala, India",
+      "highlights": [
+        "Designed, developed, and deployed a campaign optimization machine learning pipeline for Robo-X and productized an explainable AI feature.",
+        "Prototyped knowledge graph embeddings for client product catalogues and developed multivariate adaptive testing to identify winning variants with minimal opportunity loss.",
+        "Implemented API microservices using Flask."
+      ]
     }
   ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  "education": [
+    {
+      "institution": "University of Surrey, UK",
+      "studyType": "PhD",
+      "area": "Robustness of Foundation Models",
+      "startDate": "2024-02",
+      "courses": [
+        "Thesis: Robustness of Foundation Models."
+      ]
+    },
+    {
+      "institution": "Indian Institute of Space Science and Technology (IIST), India",
+      "studyType": "M.Tech",
+      "area": "Machine Learning and Computing",
+      "startDate": "2017-07",
+      "endDate": "2019-05",
+      "score": "8.39/10",
+      "courses": [
+        "CGPA: 8.39/10"
+      ]
+    },
+    {
+      "institution": "Amrita School of Engineering, India",
+      "studyType": "B.Tech",
+      "area": "Electrical and Electronics Engineering",
+      "startDate": "2012-08",
+      "endDate": "2016-05",
+      "score": "8.53/10",
+      "courses": [
+        "CGPA: 8.53/10"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "SEBRA: Debiasing through Self-Guided Bias Ranking",
+      "publisher": "ICLR",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/forum?id=MyVC4X5B2X",
+      "summary": "Adarsh Kappiyath, Abhra Chaudhuri, Ajay Jaiswal, Ziquan Liu, Yunpeng Li, Xiatian Zhu, Lu Yin."
+    },
+    {
+      "name": "Lifelong Learning in StyleGAN through Latent Subspaces",
+      "publisher": "Transactions on Machine Learning Research (TMLR)",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/forum?id=I4IAwVOZrM",
+      "summary": "Adarsh Kappiyath, Anmol Garg, Ramya Hebbalaguppe, Prathosh A. P."
+    },
+    {
+      "name": "DeNetDM: Debiasing by Network Depth Modulation",
+      "publisher": "NeurIPS",
+      "releaseDate": "2024",
+      "url": "https://openreview.net/forum?id=0dtA21q83C",
+      "summary": "Silpa Vadakkeeveetil Sreelatha*, Adarsh Kappiyath*, Abhra Chaudhuri, Anjan Dutta. *Equal contribution."
+    },
+    {
+      "name": "Self-Supervised Enhancement of Latent Discovery in GANs",
+      "publisher": "AAAI",
+      "releaseDate": "2022",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20667",
+      "summary": "Adarsh Kappiyath*, Silpa Vadakkeeveetil Sreelatha*, S. Sumitra. *Equal contribution."
+    },
+    {
+      "name": "Disentanglement based Active Learning",
+      "publisher": "IJCNN",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1109/IJCNN52387.2021.9534033",
+      "summary": "Adarsh Kappiyath*, Silpa V. S.*, S. Sumitra. *Equal contribution."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Self-Supervised Collapse Prevention with Score-Based Entropy Maximization",
+      "summary": "Research on preventing collapse in self-supervised learning through score-based entropy maximization.",
+      "highlights": [
+        "Collaborators: S. Vadakkeeveetil Sreelatha, X. Zhu, Y. LeCun, L. Yin, A. Bar."
+      ]
+    },
+    {
+      "name": "CARE-JEPA: Corrective Attribute Recovery via Error for Joint Embedding Predictive Architectures",
+      "summary": "Research on corrective attribute recovery via error for joint embedding predictive architectures.",
+      "highlights": [
+        "Collaborators: X. Zhu, L. Yin."
+      ]
+    },
+    {
+      "name": "Answer Selection with Deep Learning",
+      "summary": "Microsoft AI Challenge 2018",
+      "highlights": [
+        "Implemented and evaluated Siamese CNNs, attention-based Siamese networks, and compare–aggregate architectures with word embeddings to select answers from candidate responses."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BMVA Symposium on World Models",
+      "position": "Organizer"
+    },
+    {
+      "organization": "Conference reviewing",
+      "position": "Reviewer",
+      "highlights": [
+        "ICLR 2025",
+        "NeurIPS 2023",
+        "CVPR 2026",
+        "ICML 2025"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "EuroHPC Compute Grant",
+      "summary": "Co-Investigator; 18,000 NVIDIA A100 GPU hours."
+    },
+    {
+      "title": "Isambard Compute Grant",
+      "summary": "Co-Investigator; 10,000 NVIDIA H100 GPU hours."
+    },
+    {
+      "title": "Postgraduate Research Fellowship",
+      "awarder": "Faculty of Engineering and Physical Sciences"
+    },
+    {
+      "title": "Postgraduate Scholarship",
+      "awarder": "MHRD, India",
+      "summary": "2017–2019"
+    },
+    {
+      "title": "Conference Registration Waiver",
+      "awarder": "ICLR",
+      "date": "2025"
+    },
+    {
+      "title": "Finalist, Microsoft AI Challenge",
+      "date": "2018"
+    },
+    {
+      "title": "NPTEL national proctored examinations",
+      "summary": "Top 5% in Advanced Deep Learning and top 10% in Deep Learning."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Frameworks",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "scikit-learn"
+      ]
+    },
+    {
+      "name": "Representation Learning",
+      "keywords": [
+        "Self-supervised learning",
+        "JEPA",
+        "Debiasing",
+        "Foundation model robustness"
+      ]
+    },
+    {
+      "name": "Generative & Continual Learning",
+      "keywords": [
+        "GANs (StyleGAN)",
+        "Latent space discovery",
+        "Continual adaptation"
+      ]
+    },
+    {
+      "name": "Applied ML",
+      "keywords": [
+        "ML pipeline development and deployment",
+        "Explainable AI",
+        "Knowledge graph embeddings"
+      ]
+    },
+    {
+      "name": "Experimentation & Tools",
+      "keywords": [
+        "Weights & Biases",
+        "Hyperopt",
+        "Flask API microservices",
+        "Linux (Ubuntu)",
+        "LaTeX"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Joint Embedding Predictive Architectures (JEPA)"
+    },
+    {
+      "name": "Self-supervised learning"
+    },
+    {
+      "name": "World modeling"
+    },
+    {
+      "name": "Representation learning"
+    },
+    {
+      "name": "Debiasing and spurious correlations"
+    },
+    {
+      "name": "Continual learning"
+    }
+  ]
 }
