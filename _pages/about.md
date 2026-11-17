@@ -38,4 +38,4 @@ Previously, I was a **Pre-Doctoral Fellow at TCS Research** (2022–2024), study
 
 I organize the **BMVA Symposium on World Models** and have reviewed for **NeurIPS 2023, ICLR 2025, ICML 2025, and CVPR 2026**.
 
-I welcome research collaborations on **world modeling and representation learning**. Contact me at [kadarsh22@gmail.com](mailto:kadarsh22@gmail.com), or see my [CV]({{ '/cv/' | relative_url }}) for publications, experience, and current projects.
+I am actively seeking **internships and research collaborations** in **world modeling and representation learning**. Contact me at [kadarsh22@gmail.com](mailto:kadarsh22@gmail.com), or see my [CV]({{ '/cv/' | relative_url }}) for publications, experience, and current projects.
