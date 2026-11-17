@@ -30,12 +30,4 @@ I am interested in how models can learn useful representations without explicit 
 - **Self-supervised learning:** understanding and preventing representation collapse. I investigate **score-based entropy maximization** as a way to preserve informative representations during learning.
 - **World modeling:** exploring how predictive representations can capture useful semantic information and causal structure, with robustness under changing conditions as a central research interest.
 
-My earlier work on **debiasing, spurious correlations, and continual learning** informs these questions. It includes SEBRA (ICLR 2025), DeNetDM (NeurIPS 2024), lifelong learning in StyleGAN (TMLR 2025), and self-supervised latent discovery in GANs (AAAI 2022).
-
-Previously, I was a **Pre-Doctoral Fellow at TCS Research** (2022–2024), studying continual learning through adaptable latent subspaces, and a **Data Scientist in R&D at Flytxt** (2019–2022). My PhD thesis focuses on the robustness of foundation models.
-
-### Professional service
-
-I organize the **BMVA Symposium on World Models** and have reviewed for **NeurIPS 2023, ICLR 2025, ICML 2025, and CVPR 2026**.
-
 I am actively seeking **internships and research collaborations** in **world modeling and representation learning**. Contact me at [kadarsh22@gmail.com](mailto:kadarsh22@gmail.com), or see my [CV]({{ '/cv/' | relative_url }}) for publications, experience, and current projects.
