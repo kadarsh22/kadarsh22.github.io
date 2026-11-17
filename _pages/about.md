@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: JEPA · Self-supervised learning · World modeling
+subtitle: World modeling and representation learning
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi, I'm **Adarsh Kappiyath**, a PhD researcher at the **University of Surrey** working on **Joint Embedding Predictive Architectures (JEPA), self-supervised learning, and world modeling**. My primary supervisor is **[Sara Atito](https://www.surrey.ac.uk/people/sara-atito)**, and I am also supervised by **[Dr. Xiatian Zhu](https://surrey-uplab.github.io/)**.
+Hi, I'm **Adarsh Kappiyath**, a PhD researcher at the **University of Surrey** with research interests in **world modeling and representation learning**. My primary supervisor is **[Dr. Sara Atito](https://www.surrey.ac.uk/people/sara-atito)**, and I am also supervised by **[Dr. Xiatian Zhu](https://surrey-uplab.github.io/)**.
 
 I am interested in how models can learn useful representations without explicit labels, and how those representations can support prediction and an understanding of the world. My current work examines the reliability of JEPA representations and how to preserve meaningful information while improving stability and generalization under unseen conditions.
 
@@ -38,4 +38,4 @@ Previously, I was a **Pre-Doctoral Fellow at TCS Research** (2022–2024), study
 
 I organize the **BMVA Symposium on World Models** and have reviewed for **NeurIPS 2023, ICLR 2025, ICML 2025, and CVPR 2026**.
 
-I welcome research collaborations on **JEPA, self-supervised learning, and world modeling**. Contact me at [kadarsh22@gmail.com](mailto:kadarsh22@gmail.com), or see my [CV]({{ '/cv/' | relative_url }}) for publications, experience, and current projects.
+I welcome research collaborations on **world modeling and representation learning**. Contact me at [kadarsh22@gmail.com](mailto:kadarsh22@gmail.com), or see my [CV]({{ '/cv/' | relative_url }}) for publications, experience, and current projects.

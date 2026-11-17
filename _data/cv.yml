@@ -15,12 +15,8 @@
   title: "Research Interests"
   type: "list"
   contents:
-    - "Joint Embedding Predictive Architectures (JEPA)"
-    - "Self-supervised learning"
     - "World modeling"
     - "Representation learning"
-    - "Debiasing and spurious correlations"
-    - "Continual learning"
 -
   title: "Research & Industry Experience"
   type: "time_table"

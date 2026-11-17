@@ -4,7 +4,7 @@
     "label": "PhD Researcher, University of Surrey",
     "email": "kadarsh22@gmail.com",
     "url": "https://kadarsh22.github.io/",
-    "summary": "PhD researcher studying Joint Embedding Predictive Architectures (JEPA), self-supervised learning, and world modeling, with a focus on informative, stable representations that generalize under unseen conditions. My work also draws on debiasing and continual learning."
+    "summary": "PhD researcher with research interests in world modeling and representation learning, with a focus on informative, stable representations that generalize under unseen conditions. My work also draws on debiasing and continual learning."
   },
   "work": [
     {
@@ -228,22 +228,10 @@
   ],
   "interests": [
     {
-      "name": "Joint Embedding Predictive Architectures (JEPA)"
-    },
-    {
-      "name": "Self-supervised learning"
-    },
-    {
       "name": "World modeling"
     },
     {
       "name": "Representation learning"
-    },
-    {
-      "name": "Debiasing and spurious correlations"
-    },
-    {
-      "name": "Continual learning"
     }
   ]
 }
